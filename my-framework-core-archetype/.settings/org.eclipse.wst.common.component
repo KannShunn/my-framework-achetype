@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="my-framework-core-archetype">
+    <wb-module deploy-name="my-framework-core-demo">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/" source-path="/target/m2e-jee/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <property name="java-output-path" value="/my-framework-core-archetype/target/classes"/>
-        <property name="context-root" value="/my-framework-core-archetype"/>
+        <property name="java-output-path" value="/my-framework-core-demo/target/classes"/>
+        <property name="context-root" value="my-framework-core-demo"/>
     </wb-module>
 </project-modules>
